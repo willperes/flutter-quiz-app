@@ -1,6 +1,15 @@
-# adv_basics
+# Flutter Quiz App
 
-A new Flutter project.
+A basic Quiz App built with Flutter during an Udemy Flutter course.
+
+## App home page
+![App home page](https://i.imgur.com/LKZZyYC.png)
+
+## One of the quiz's questions
+![One of the quiz's questions](https://i.imgur.com/cEIB4rD.png)
+
+## Results screen
+![Results screen](https://i.imgur.com/u4PYpM6.png)
 
 ## Getting Started
 
